@@ -1,0 +1,30 @@
+TRABAJO FINAL
+
+1. Introducción
+Descripción del proyecto y su importancia para la ingeniería de sistemas
+2. Marco Teorico
+3. Metodologia
+4. Resultados
+4.1. Análisis de Requisitos
+Identificación de necesidades específicas del sistema y de los usuarios.
+Definición de entidades y relaciones.
+4.2. Diseño de la Base de Datos
+Creación de diagramas entidad-relación (DER).
+Transformación al Modelo elacional
+Normalización de la base de datos.
+4.3. Implementación
+Creación de tablas, vistas , procedimientos almacenados.
+Configuración de restricciones y relaciones.
+Ejecución de consultas a la base de datos
+Opcional
+Desarrollo de la Aplicación
+Construcción de la interfaz de usuario.
+Integración de la base de datos en la aplicación.
+Pruebas
+Verificación del correcto funcionamiento del sistema.
+Identificación y corrección de errores.
+Documentación
+Elaboración de manuales de usuario y técnico.
+
+
+TEMA: Plataforma de Gestión Educativa - Diseña una base de datos para una institución educativa, incluyendo tablas para alumnos, cursos, calificaciones , profesores,etc.
